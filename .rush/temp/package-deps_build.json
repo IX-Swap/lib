@@ -1,0 +1,6 @@
+{
+  "files": {
+    "common/config/rush/yarn.lock": "f07093554f27be2a9cff4697842d472f061ad604"
+  },
+  "arguments": "yarn compile "
+}
