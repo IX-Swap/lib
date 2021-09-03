@@ -1,9 +1,9 @@
 # ixs-lib
 
-[![Tests](https://github.com/Ixs/ixs-lib/workflows/Tests/badge.svg)](https://github.com/Ixs/ixs-lib/actions?query=workflow%3ATests)
-[![Static Analysis](https://github.com/Ixs/ixs-lib/workflows/Static%20Analysis/badge.svg)](https://github.com/Ixs/ixs-lib/actions?query=workflow%3A%22Static+Analysis%22)
-[![Lint](https://github.com/Ixs/ixs-lib/workflows/Lint/badge.svg)](https://github.com/Ixs/ixs-lib/actions?query=workflow%3ALint)
-[![Fuzz Testing](https://github.com/Ixs/ixs-lib/workflows/Fuzz%20Testing/badge.svg)](https://github.com/Ixs/ixs-lib/actions?query=workflow%3A%22Fuzz+Testing%22)
+[![Tests](https://github.com/IX-Swap/lib/workflows/Tests/badge.svg)](https://github.com/IX-Swap/lib/actions?query=workflow%3ATests)
+[![Static Analysis](https://github.com/IX-Swap/lib/workflows/Static%20Analysis/badge.svg)](https://github.com/IX-Swap/lib/actions?query=workflow%3A%22Static+Analysis%22)
+[![Lint](https://github.com/IX-Swap/lib/workflows/Lint/badge.svg)](https://github.com/IX-Swap/lib/actions?query=workflow%3ALint)
+[![Fuzz Testing](https://github.com/IX-Swap/lib/workflows/Fuzz%20Testing/badge.svg)](https://github.com/IX-Swap/lib/actions?query=workflow%3A%22Fuzz+Testing%22)
 [![npm](https://img.shields.io/npm/v/@ixswap1/lib)](https://unpkg.com/@ixswap1/lib@latest/)
 
 Solidity libraries that are shared across Ixs contracts. This package focuses on safety and execution gas efficiency.
