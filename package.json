@@ -1,6 +1,6 @@
 {
   "name": "@ixswap1/lib",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "📖 Solidity libraries that are shared across Ixs contracts",
   "files": [
     "contracts",
