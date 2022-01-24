@@ -1,6 +1,6 @@
 {
-  "name": "@ixs/lib",
-  "version": "1.0.0",
+  "name": "@ixswap1/lib",
+  "version": "1.2.8",
   "description": "📖 Solidity libraries that are shared across Ixs contracts",
   "files": [
     "contracts",
@@ -26,7 +26,7 @@
     "prettier": "^2.1.2",
     "prettier-plugin-solidity": "^1.0.0-alpha.59",
     "rimraf": "^3.0.2",
-    "solc": "^0.6.0",
+    "solc": "0.6.6",
     "solhint-plugin-prettier": "^0.0.5",
     "ts-node": "^8.9.0",
     "typescript": "^3.8.3"
@@ -38,7 +38,7 @@
     "pretest": "yarn compile",
     "test": "mocha",
     "prepublishOnly": "yarn test",
-    "build": "npm run compile"
+    "build": "yarn compile"
   },
   "license": "GPL-3.0-or-later"
 }
